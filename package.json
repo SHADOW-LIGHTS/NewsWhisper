@@ -1,15 +1,28 @@
 {
-  "name": "ai-newswhisper",
+  "name": "alan_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "@alan-ai/alan-sdk-web": "^1.1.8",
+    "@fontsource/bebas-neue": "^4.5.9",
+    "@fontsource/lato": "^4.5.10",
+    "@fontsource/poppins": "^4.5.10",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "classnames": "^2.2.6",
+    "emailjs-com": "^2.6.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-fast-marquee": "^1.6.0",
+    "react-router-dom": "^6.11.1",
+    "react-scripts": "3.4.1",
+    "react-spinners": "^0.8.3",
+    "react-spring": "^9.7.1",
+    "words-to-numbers": "^1.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -18,10 +31,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": "react-app"
   },
   "browserslist": {
     "production": [
@@ -34,5 +44,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^2.5.1"
   }
 }
