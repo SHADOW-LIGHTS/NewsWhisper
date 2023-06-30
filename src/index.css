@@ -61,6 +61,7 @@ body {
 }
 
 .nav ul {
+  color: white;
   padding: 0;
   margin: 0;
   list-style: none;
@@ -78,12 +79,21 @@ body {
   padding: 0.25rem;
 }
 
-.nav li.active {
-  background-color: #555;
+/* .nav li.active {
+  background-color: #333;
   border-radius: 8%;
 }
 
 .nav li:hover {
-  background-color: #777;
+  background-color: #444;
+  border-radius: 8%;
+} */
+.nav li.active {
+  background-color: #007bff;
+  border-radius: 8%;
+}
+
+.nav li:hover {
+  background-color: #0069d9;
   border-radius: 8%;
 }

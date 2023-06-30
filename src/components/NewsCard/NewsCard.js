@@ -47,7 +47,7 @@ const NewsCard = ({
           className={classes.media}
           image={
             urlToImage ||
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm74Tp6vsSJC0t5r4IiLtvL-eVhdejlktodw"
+            "https://th.bing.com/th/id/OIG.OS9efagtTmGRzQ2jHlSg?pid=ImgGn"
           }
         />
 

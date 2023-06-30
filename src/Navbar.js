@@ -8,7 +8,7 @@ export default function Navbar() {
         NewsWhisper
       </Link>
       <ul>
-        <CustomLink to="/pricing">Pricing</CustomLink>
+        <CustomLink to="/docs">Docs</CustomLink>
         <CustomLink to="/about">About</CustomLink>
       </ul>
     </nav>

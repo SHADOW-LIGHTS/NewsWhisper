@@ -23,7 +23,7 @@ export default makeStyles({
     fontSize: "1.6rem", // Adjust the font size for the text inside the cards
     overflow: "hidden",
     textOverflow: "ellipsis",
-    zIndex: 1,
+    // zIndex: 1,
   },
 
   infoCard: {
