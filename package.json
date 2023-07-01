@@ -32,9 +32,6 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "plugins": [
-      "flowtype"
-    ],
     "extends": "react-app"
   },
   "browserslist": {
