@@ -19,13 +19,13 @@
     "react-dom": "^16.13.1",
     "react-fast-marquee": "^1.6.0",
     "react-router-dom": "^6.11.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^5.0.1",
     "react-spinners": "^0.8.3",
     "react-spring": "^9.7.1",
     "words-to-numbers": "^1.5.1"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
