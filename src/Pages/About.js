@@ -1,7 +1,7 @@
 import React from "react";
 import "./Docs.css";
 
-export default function Docs() {
+export default function About() {
   return (
     <div className="docs-container">
       <h1>
