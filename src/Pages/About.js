@@ -1,5 +1,5 @@
 import React from "react";
-import "./About.css";
+import "./Docs.css";
 
 export default function Docs() {
   return (
