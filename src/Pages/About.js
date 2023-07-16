@@ -3,7 +3,7 @@ import "./About.css";
 
 export default function About() {
   return (
-    <div className="docs-container">
+    <div className="about-container">
       <h1>
         Voice-Driven News Application: Your Hands-Free Gateway to the World of
         News
