@@ -1,0 +1,83 @@
+.about-container {
+  font-family: "Poppins", sans-serif;
+  max-width: 99%;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: left;
+  scroll-behavior: smooth;
+  transform: translate3d(0, 0, 0);
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: #333;
+  background-color: #f9fafb;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: #374151;
+}
+
+.about-container h1,
+.about-container h2,
+.about-container h3,
+.about-container h4,
+.about-container h5,
+.about-container h6,
+.about-container p {
+  color: #333;
+}
+
+.about-container a {
+  color: #007bff;
+}
+
+.about-container strong {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.about-container em {
+  color: #007bff;
+  font-style: initial;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.section {
+  margin-bottom: 40px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  color: #333;
+}
+
+li {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Optional: Add hover effect to sections */
+.section:hover {
+  background-color: #f8f8f8;
+  transition: background-color 0.3s ease;
+}
